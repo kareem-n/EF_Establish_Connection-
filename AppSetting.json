@@ -1,0 +1,3 @@
+{
+    "SqlConnectionStr": "Server= .\\SQLEXPRESS ; Database=Library Management System; Integrated Security=True;TrustServerCertificate=True;"
+}
